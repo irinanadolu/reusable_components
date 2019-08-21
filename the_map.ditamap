@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title></title>
+    
+    <keydef keys="balloon" href="res/image%201" format="jpg"></keydef>
+    <keydef keys="pumpkin" href="res/image%202" format="jpg"></keydef>
+    
+    <keydef keys="drum_sound" href="res/drum" format="mp3"></keydef>
+    <keydef keys="video" href="res/SampleVideo_720x480_1mb" format="mp4"></keydef>
+    
+    <keydef keys="youtube" href="https://www.youtube.com/embed/qmSPRZVrDlc" format="html" scope="external"></keydef>
+    
+    <keydef keys="PDF" href="res/personal" format="pdf" scope="external"></keydef>
+    <keydef keys="text"/>
+    
+    <keydef keys="Google" href="https://www.google.com" format="html" scope="external"/>
+    <keydef keys="Google2" href="https://www.google.com" format="html" scope="external"/>
+    <topicref href="Topic.dita"/>
+    
+</map>
